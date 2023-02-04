@@ -1,0 +1,87 @@
+{
+  "basic_info": {
+    "description_header": "Hello",
+    "description": "👋 I'm a web developer, I work a lot with Laravel, React, Node. I spend my time solving problems, designing solutions, and working with cool people. I'm building apps with the best technology stacks \n\n Outside of programming, I enjoy watching movies, reading manga, and playing video games. Secretly I like to eat ice cream and bananas. \n\n Thanks for visiting, please check out my work, you might find something interesting! 💜",
+    "section_name": {
+      "about": "About me",
+      "projects": "Projects",
+      "skills": "Skills",
+      "experience": "Experience"
+    }
+  },
+  "projects": [
+    {
+      "title": "Absensi Karyawan PPNPN Kementrian Sosial",
+      "startDate": "2021",
+      "description": "The most expanded application i had opportunity to work with. i've learned many technologies and my code was reviewed by awesome curator.",
+      "images": ["images/logo512.png", "images/logo512.png"],
+      "url": "",
+      "technologies": [
+        {
+          "class": "devicon-angularjs-plain",
+          "name": "Angular"
+        }
+      ]
+    },
+    {
+      "title": "Web Company Profile",
+      "startDate": "2020",
+      "description": "The most expanded application i had opportunity to work with. i've learned many technologies and my code was reviewed by awesome curator.",
+      "images": ["images/logo512.png", "images/logo512.png"],
+      "url": "",
+      "technologies": [
+        {
+          "class": "devicon-angularjs-plain",
+          "name": "Angular"
+        }
+      ]
+    },
+    {
+      "title": "Web properti",
+      "startDate": "2019",
+      "description": "The most expanded application i had opportunity to work with. i've learned many technologies and my code was reviewed by awesome curator.",
+      "images": ["images/logo512.png", "images/logo512.png"],
+      "url": "",
+      "technologies": [
+        {
+          "class": "devicon-angularjs-plain",
+          "name": "Laravel"
+        },
+        {
+          "class": "devicon-angularjs-plain",
+          "name": "Html"
+        }
+      ]
+    }
+  ],
+  "experience": [
+    {
+      "Company": "PT Reasuransi Indonesia Utama",
+      "title": "IT Support",
+      "years": "11.2021 - 10.2022",
+      "mainTech": ["HTML", "CSS"],
+      "technologies": ["Execel", "word"]
+    },
+    {
+      "Company": "PT. Kementrian Sosial",
+      "title": "Freelance",
+      "years": "05.2021 - 11.2021",
+      "mainTech": ["Laravel"],
+      "technologies": ["REST API", "Javascript", "Bootstrap", "PHP", "JAVA"]
+    },
+    {
+      "Company": "CV. Anindya Putri Kania",
+      "title": "Freelance",
+      "years": "01.2021 - 05.2021",
+      "mainTech": ["Laravel"],
+      "technologies": ["REST API", "Javascript", "Bootstrap", "PHP"]
+    },
+    {
+      "Company": "PT. Kamillo Bintang Properti",
+      "title": "IT Support",
+      "years": "05.2019 - 03.2020",
+      "mainTech": ["Html", "CSS"],
+      "technologies": ["Execel", "word"]
+    }
+  ]
+}

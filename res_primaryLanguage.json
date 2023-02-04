@@ -1,0 +1,91 @@
+{
+  "basic_info": {
+    "description_header": "Hello",
+    "description": "👋 Saya seorang web developer, saya banyak bekerja dengan Laravel, React, Node. Saya menghabiskan waktu untuk memecahkan masalah, merancang solusi, dan bekerja dengan orang-orang keren.saya sedang membangun aplikasi dengan tumpukan teknologi terbaik  \n\n Di luar pemrograman, saya menikmati menonton film, membaca manga, dan bermain video game. Diam-diam saya suka makan es krim dan pisang. \n\n Terima kasih telah berkunjung, silakan periksa karya saya, Anda mungkin menemukan sesuatu yang menarik! 💜",
+    "section_name": {
+      "about": "Tentang Saya",
+      "projects": "Proyek",
+      "skills": "Kemampuan",
+      "experience": "Pengalaman"
+    }
+  },
+  "projects": [
+    {
+      "title": "Absensi Karyawan PPNPN Kementrian Sosial",
+      "startDate": "2021",
+      "description": "Aplikasi yang complex, saya punya kesempatan untuk bekerja dengannya. saya telah mempelajari banyak teknologi dan kode saya telah ditinjau oleh kurator yang hebat.",
+      "images": ["images/home.png", "images/home_app.jpg", "images/login.png", "images/logout_app.jpg", "images/profile_app.jpg", "images/rekap_app.jpg"],
+      "url": "",
+      "technologies": [
+        {
+          "class": "devicon-laravel-plain",
+          "name": "Laravel"
+        },
+        {
+          "class": "devicon-laravel-plain",
+          "name": "Android"
+        }
+      ]
+    },
+    {
+      "title": "Web Profil Perusahaan",
+      "startDate": "2020",
+      "description": "The most expanded application i had opportunity to work with. i've learned many technologies and my code was reviewed by awesome curator.",
+      "images": ["images/logo512.png", "images/logo512.png"],
+      "url": "",
+      "technologies": [
+        {
+          "class": "devicon-angularjs-plain",
+          "name": "Angular"
+        }
+      ]
+    },
+    {
+      "title": "Web Properti",
+      "startDate": "2019",
+      "description": "Saya harus mengembangkan implementasi front-end untuk aplikasi yang menampilkan properti-properti yang siap dijual. Ini juga proyek pertama saya dalam kerangka boostrap. Saya telah belajar banyak!",
+      "images": ["images/bipro.png"],
+      "url": "",
+      "technologies": [
+        {
+          "class": "devicon-angularjs-plain",
+          "name": "Laravel"
+        },
+        {
+          "class": "devicon-angularjs-plain",
+          "name": "Html"
+        }
+      ]
+    }
+  ],
+  "experience": [
+    {
+      "company": "PT Reasuransi Indonesia Utama",
+      "title": "Data Entri",
+      "years": "11.2021 - 10.2022",
+      "mainTech": ["HTML", "CSS"],
+      "technologies": ["Execel", "word"]
+    },
+    {
+      "company": "Kementerian Sosial Republik Indonesia",
+      "title": "Freelance",
+      "years": "05.2021 - 11.2021",
+      "mainTech": ["Laravel"],
+      "technologies": ["REST API", "Javascript", "Bootstrap", "PHP", "JAVA"]
+    },
+    {
+      "company": "CV. Anindya Putri Kania",
+      "title": "Freelance",
+      "years": "01.2021 - 05.2021",
+      "mainTech": ["Laravel"],
+      "technologies": ["REST API", "Javascript", "Bootstrap", "PHP"]
+    },
+    {
+      "company": "PT. Kamillo Bintang Properti",
+      "title": "IT Support",
+      "years": "05.2019 - 03.2020",
+      "mainTech": ["HTML", "CSS"],
+      "technologies": ["Execel", "word"]
+    }
+  ]
+}
